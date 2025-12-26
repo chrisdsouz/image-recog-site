@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Vision Explorer",
+  "description": "A high-performance React application that leverages Gemini 3 Flash to analyze images and text inputs in real-time with a beautiful, responsive UI.",
+  "requestFramePermissions": []
+}
